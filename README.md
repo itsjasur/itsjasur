@@ -1,4 +1,6 @@
-# 💫 About Me:
+I am a full-stack software engineer with 5+ years of experience creating modern iOS/Android apps and websites.
+I am always open to new challenges and ideas to colloborate!
+
 I am currently working on baroform.com website using Vue.js and iOS/Android apps using Flutter. 
 
 
